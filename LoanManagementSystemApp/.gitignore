@@ -1,0 +1,32 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# Visual Studio / VS Code temp files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Database files (optional: remove this if you want DB in repo)
+Database/*.accdb
+Database/*.mdb
+
+# Logs
+*.log
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Backup files
+*.bak
+*.tmp
+
+# Publish output
+publish/
